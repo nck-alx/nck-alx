@@ -26,5 +26,5 @@
 
 ## 📫 More of me!
  
-- 💼 LinkedIn: [Nicolas ALexandre](https://www.linkedin.com/in/nicolas-alexandre-58a364281) 
+- 💼 LinkedIn: [Nicolas Alexandre](https://www.linkedin.com/in/nicolas-alexandre-58a364281) 
 - 🐙 GitHub: [nck-alx](https://github.com/nck-alx)  
