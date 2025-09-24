@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hello there! 👋
 
-<!--
-**nck-alx/nck-alx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 20 years old
+🎓 Currently studying Systems Analysis and Development  
+💻 Passionate about back-end development, databases and creative problem solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Java | Python | SQL | HTML5 & CSS3  
+
+---
+
+## 🚀 About Me
+- 📚 Aspiring Back-End Dev with a strong focus on Java
+- 🏗️ Experience building **academic projects** with the **MVC pattern** (Java, JSP, Tomcat, MySQL)
+
+---
+
+## 🌱 What I'm Learning
+- Java (JSP, JDBC and MVC Pattern)  
+- Database design and optimization  
+- Git/GitHub workflows
+
+---
+
+## 📫 More of me!
+ 
+- 💼 LinkedIn: [Nicolas ALexandre](https://www.linkedin.com/in/nicolas-alexandre-58a364281) 
+- 🐙 GitHub: [nck-alx](https://github.com/nck-alx)  
