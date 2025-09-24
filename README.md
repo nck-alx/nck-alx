@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 - 📚 Aspiring Back-End Dev with a strong focus on Java
-- 🏗️ Experience building **academic projects** with the **MVC pattern** (Java, JSP, Tomcat, MySQL)
+- 🏗️ Experience building academic projects with the MVC pattern
 
 ---
 
