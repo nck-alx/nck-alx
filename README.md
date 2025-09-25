@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-***Hello there!***
+<h1><bold><i>Hello there!</i></bold></h1>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ![Java](https://img.shields.io/badge/Java-JSP-f89820)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-00758f)
@@ -8,16 +8,20 @@
 ![CSS3](https://img.shields.io/badge/CSS3--blue)
 
 <p>
-📖 Currently studying a Technologist degree in Systems Analysis and Development <br>
+📖 Currently graduating a Technologist degree in Systems Analysis and Development <br>
 🎓 About to begin a Bachelor's degree in Information Systems <br>
-👨‍💻 OOP and Back-End Systems enthusiast <br>
+👨‍💻 OOP and Back-End programming enthusiast* <br>
+✍️ Realy like to write and worldbuilding also <br>
 </p>
 
 - Java (including JSP and JDBC)
 - Databases (MySQL)
 - HTML5 & CSS3
 
-***Also try***
+*<i>often inserting nerd references in my projects </i><br>
+<h1></h1>
+
+***also try:***
 
 <p align="left">
   <a href="mailto:alexandrenicolas509@gmail.com" title="Gmail">
