@@ -1,6 +1,6 @@
 
 <h1><bold><i>Hello there!</i></bold></h1>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"><br>
 
 ![Java](https://img.shields.io/badge/Java-JSP-f89820)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-00758f)
