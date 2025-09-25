@@ -22,5 +22,5 @@ Passionate about back-end development, specially databases and OOP
 
 ## Try also!
  
-- 💼 LinkedIn: [Nicolas Alexandre](https://www.linkedin.com/in/nicolas-alexandre-58a364281) 
-- 🐙 GitHub: [nck-alx](https://github.com/nck-alx)  
+- LinkedIn: [Nicolas Alexandre](https://www.linkedin.com/in/nicolas-alexandre-58a364281) 
+- GitHub: [nck-alx](https://github.com/nck-alx)  
