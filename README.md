@@ -17,7 +17,7 @@
 - Databases (MySQL)
 - HTML5 & CSS3
 
-<b>Also try</b>
+***Also try***
 
 <p align="left">
   <a href="mailto:alexandrenicolas509@gmail.com" title="Gmail">
