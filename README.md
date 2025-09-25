@@ -1,19 +1,15 @@
-## Hello there! 👋
+## Hello there!
 
-📍 20 years old
-🎓 Currently studying Systems Analysis and Development  
-💻 Passionate about back-end development, databases and creative problem solving  
+Currently studying Systems Analysis and Development  
+Passionate about back-end development, specially databases and OOP 
 
 ---
 
 ## Tech Stack
-- **Languages:** Java | Python | SQL | HTML5 & CSS3  
-
----
-
-## About Me
-- 📚 Aspiring Back-End Dev with a strong focus on Java
-- 🏗️ Experience building academic projects with the MVC pattern
+- **Languages:** 
+- Java (JSP and JDBC)
+- SQL
+- HTML5 & CSS3  
 
 ---
 
