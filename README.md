@@ -11,7 +11,6 @@
 📖 Currently graduating a Technologist degree in Systems Analysis and Development <br>
 🎓 About to begin a Bachelor's degree in Information Systems <br>
 👨‍💻 OOP and Back-End programming enthusiast* <br>
-✍️ Realy like to write and worldbuilding also <br>
 </p>
 
 - Java (including JSP and JDBC)
