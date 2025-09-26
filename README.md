@@ -1,6 +1,7 @@
 
-<bold><i>Hello there!</i></bold>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"><br>
+
+<bold><i>Hello there!</i></bold>
 
 ![Java](https://img.shields.io/badge/Java-JSP-f89820)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-00758f)
