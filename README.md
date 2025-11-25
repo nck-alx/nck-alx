@@ -10,8 +10,7 @@
 
 <p>
 📖 Currently graduating a Technologist degree in Systems Analysis and Development <br>
-🎓 About to begin a Bachelor's degree in Information Systems <br>
-👨‍💻 OOP and Back-End programming enthusiast* <br>
+👨‍💻 Data analysis and Back-End programming enthusiast* <br>
 </p>
 
 - Java (including JSP and JDBC)
