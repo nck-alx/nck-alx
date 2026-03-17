@@ -9,7 +9,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3--blue)
 
 <p>
-📖 Currently graduating a Technologist degree in Systems Analysis and Development <br>
+📖 Got a Technologist degree in Systems Analysis and Development <br>
 👨‍💻 Data analysis and Back-End programming enthusiast* <br>
 </p>
 
